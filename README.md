@@ -1,14 +1,11 @@
 # Hello, I'm Márcio Rodrigues
 <a href="www.linkedin.com/in/marcio-rodrigues-01839a281"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Passionate about technology from a young age, I bring a unique blend of IT, troubleshooting, and analytical skills. My diverse background and commitment to continuous learning make me a strong candidate in the field of cybersecurity.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Aspiring to become a SOC Analyst Tier 1, I am dedicated to acquiring the necessary skills and certifications to excel in cybersecurity, with a commitment to protecting networks and systems from threats. My goal is to leverage my passion and background in technology, along with continuous learning, to contribute effectively to a Security Operations Center.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
