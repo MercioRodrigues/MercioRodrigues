@@ -38,8 +38,9 @@ Aspiring to become a SOC Analyst Tier 1, I am dedicated to acquiring the necessa
 </div>
 
 ## SOAR Automation
-<img src="https://img.shields.io/badge/-Shuffle-orange?&style=for-the-badge&logo=Shuffle&logoColor=white" />
-
+<div>
+    <img src="https://img.shields.io/badge/-SHUFFLE-FFA500?&style=for-the-badge&logo=https://i.imgur.com/ngB3wjY.png&logoColor=white" />
+</div>
 
 ## Certifications
 <div>
