@@ -11,12 +11,12 @@ Aspiring to become a SOC Analyst Tier 1, I am dedicated to acquiring the necessa
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | |
-| Network Traffic Monitoring and Attack Detection | |
+| SIEM Implementation with Wazuh       | [SOC SOAR Project](https://github.com/MercioRodrigues/SOC-SOAR-Project) |
 | Security Automation with Shuffle SOAR         | [SOC SOAR Project](https://github.com/MercioRodrigues/SOC-SOAR-Project) |
 | Incident Response Planning and Execution      |[SOC SOAR Project](https://github.com/MercioRodrigues/SOC-SOAR-Project) |
 | Case Management with TheHive                  | [SOC SOAR Project](https://github.com/MercioRodrigues/SOC-SOAR-Project) |
 | Scripting and Automation for Threat Mitigation | [SOC SOAR Project](https://github.com/MercioRodrigues/SOC-SOAR-Project) |
+| Cyber threat intelligence and response automation | [SOC SOAR Project](https://github.com/MercioRodrigues/SOC-SOAR-Project) |
 <br>
 
 ## Tools
