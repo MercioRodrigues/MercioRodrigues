@@ -53,5 +53,5 @@ Aspiring to become a SOC Analyst Tier 1, I am dedicated to acquiring the necessa
 
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- [SOC SOAR Project](https://github.com/MercioRodrigues/SOC-SOAR-Project)
+
