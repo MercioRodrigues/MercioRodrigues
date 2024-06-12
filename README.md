@@ -50,8 +50,8 @@ Aspiring to become a SOC Analyst Tier 1, I am dedicated to acquiring the necessa
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity-white?&style=for-the-badge&logo=Google" />
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google%20Cybersecurity-white?&style=for-the-badge&logo=Google" />
 </div>
 
 
