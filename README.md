@@ -1,6 +1,9 @@
 # Hello, I'm Márcio Rodrigues
 
-<a href="www.linkedin.com/in/marcio-rodrigues-01839a281"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/marcio-rodrigues-01839a281" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 
 Passionate about technology from a young age, I bring a unique blend of IT, troubleshooting, and analytical skills. My diverse background and commitment to continuous learning make me a strong candidate in the field of cybersecurity.
 
