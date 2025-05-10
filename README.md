@@ -21,7 +21,7 @@ Aspiring to become a SOC Analyst Tier 1, I am dedicated to acquiring the necessa
 | Case Management with TheHive                  | [SOC SOAR Project](https://github.com/MercioRodrigues/SOC-SOAR-Project) |
 | Scripting and Automation for Threat Mitigation | [SOC SOAR Project](https://github.com/MercioRodrigues/SOC-SOAR-Project) |
 | Cyber threat intelligence and response automation | [SOC SOAR Project](https://github.com/MercioRodrigues/SOC-SOAR-Project) |
-| Windows Server Administration and Active Directory | [Windows Server AD Project](https://github.com/MercioRodrigues/Windows-server-AD) |
+| Windows Server Administration and Active Directory | [Windows Server AD Project PT-PT](https://github.com/MercioRodrigues/Windows-server-AD) |
 <br>
 
 ## Tools
