@@ -62,4 +62,5 @@ Aspiring to become a SOC Analyst Tier 1, I am dedicated to acquiring the necessa
 
 ## Projects
 - [SOC SOAR Project](https://github.com/MercioRodrigues/SOC-SOAR-Project)
+- [Windows Server AD Project PT-PT](https://github.com/MercioRodrigues/Windows-server-AD)
 
