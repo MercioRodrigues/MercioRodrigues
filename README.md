@@ -15,13 +15,17 @@ Aspiring to become a SOC Analyst Tier 1, I am dedicated to acquiring the necessa
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation with Wazuh       | [SOC SOAR Project](https://github.com/MercioRodrigues/SOC-SOAR-Project) |
+| SIEM Implementation with Wazuh       | [SOC SOAR Project](https://github.com/MercioRodrigues/SOC-SOAR-Project), [Cadeia de um Ataque PT-PT](https://github.com/MercioRodrigues/Windows-server-AD/blob/main/Cadeia%20de%20um%20ataque.md) |
 | Security Automation with Shuffle SOAR         | [SOC SOAR Project](https://github.com/MercioRodrigues/SOC-SOAR-Project) |
 | Incident Response Planning and Execution      |[SOC SOAR Project](https://github.com/MercioRodrigues/SOC-SOAR-Project) |
 | Case Management with TheHive                  | [SOC SOAR Project](https://github.com/MercioRodrigues/SOC-SOAR-Project) |
 | Scripting and Automation for Threat Mitigation | [SOC SOAR Project](https://github.com/MercioRodrigues/SOC-SOAR-Project) |
 | Cyber threat intelligence and response automation | [SOC SOAR Project](https://github.com/MercioRodrigues/SOC-SOAR-Project) |
-| Windows Server Administration and Active Directory | [Windows Server AD Project PT-PT](https://github.com/MercioRodrigues/Windows-server-AD) |
+| Windows Server Administration and Active Directory | [Windows Server AD Project PT-PT](https://github.com/MercioRodrigues/Windows-server-AD), [Cadeia de um Ataque PT-PT](https://github.com/MercioRodrigues/Windows-server-AD/blob/main/Cadeia%20de%20um%20ataque.md)|
+| Offensive Security Simulation & Credential Dumping (LSASS) | [Windows Server AD Project PT-PT](https://github.com/MercioRodrigues/Windows-server-AD), [Cadeia de um Ataque PT-PT](https://github.com/MercioRodrigues/Windows-server-AD/blob/main/Cadeia%20de%20um%20ataque.md)|
+| Red Team Tactics: Phishing, Privilege Escalation, Pass-the-Hash | [Windows Server AD Project PT-PT](https://github.com/MercioRodrigues/Windows-server-AD), [Cadeia de um Ataque PT-PT](https://github.com/MercioRodrigues/Windows-server-AD/blob/main/Cadeia%20de%20um%20ataque.md)|
+| Post-Exploitation Analysis and Blue Team Detection (Wazuh/Sysmon) | [Windows Server AD Project PT-PT](https://github.com/MercioRodrigues/Windows-server-AD), [Cadeia de um Ataque PT-PT](https://github.com/MercioRodrigues/Windows-server-AD/blob/main/Cadeia%20de%20um%20ataque.md)|
+
 <br>
 
 ## Tools
