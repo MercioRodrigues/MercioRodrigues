@@ -18,7 +18,7 @@ Aspiring to become a SOC Analyst Tier 1, I am dedicated to acquiring the necessa
 | SIEM Implementation with Wazuh       | [SOC SOAR Project](https://github.com/MercioRodrigues/SOC-SOAR-Project), [Cadeia de um Ataque PT-PT](https://github.com/MercioRodrigues/Windows-server-AD/blob/main/Cadeia%20de%20um%20ataque.md) |
 | Security Automation with Shuffle SOAR         | [SOC SOAR Project](https://github.com/MercioRodrigues/SOC-SOAR-Project) |
 | Incident Response Planning and Execution      |[SOC SOAR Project](https://github.com/MercioRodrigues/SOC-SOAR-Project) |
-| Case Management with TheHive                  | [SOC SOAR Project](https://github.com/MercioRodrigues/SOC-SOAR-Project) | [TheHive Wazuh Integration](https://github.com/MercioRodrigues/TheHive_Wazuh_integration)
+| Case Management with TheHive                  | [SOC SOAR Project](https://github.com/MercioRodrigues/SOC-SOAR-Project), [TheHive Wazuh Integration](https://github.com/MercioRodrigues/TheHive_Wazuh_integration) |
 | Scripting and Automation for Threat Mitigation | [SOC SOAR Project](https://github.com/MercioRodrigues/SOC-SOAR-Project) |
 | Cyber threat intelligence and response automation | [SOC SOAR Project](https://github.com/MercioRodrigues/SOC-SOAR-Project) |
 | Windows Server Administration and Active Directory | [Windows Server AD Project PT-PT](https://github.com/MercioRodrigues/Windows-server-AD), [Cadeia de um Ataque PT-PT](https://github.com/MercioRodrigues/Windows-server-AD/blob/main/Cadeia%20de%20um%20ataque.md)|
